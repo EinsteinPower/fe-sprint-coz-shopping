@@ -1,0 +1,29 @@
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    background-color: whitesmoke;
+    max-width:1280px;
+    height: 58px;
+    
+}
+
+p.terms-of-service{
+    font-size: 12px;
+    color: gray;
+    text-align: center;
+    padding: 0 565px;
+}
+
+p.all-rights-reserved{
+    font-size: 12px;
+    color: gray;
+    text-align: center;
+    padding: 0 546px;
+}
+/*
+div > p{
+    
+}
+*/

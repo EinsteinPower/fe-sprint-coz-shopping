@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Main></Main>
-        
+        <Main></Main> 
       </header>
+      <footer className="App-footer"></footer>
     </div>
   );
 }

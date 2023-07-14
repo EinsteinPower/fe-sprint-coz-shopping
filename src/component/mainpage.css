@@ -1,0 +1,22 @@
+.mainpage-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    position: sticky;
+    background-color: whitesmoke;
+    max-width:1280px;
+    height: 694px;
+}
+
+div.product-container{
+    width:1128px;
+    height: 320px;
+    background-color: blue;
+}
+
+div.bookmark-container{
+    width:1128px;
+    height: 320px;
+    background-color: blue;
+}

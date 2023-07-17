@@ -1,4 +1,4 @@
-.mainpage-container{
+.main-container{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -12,11 +12,17 @@
 div.product-container{
     width:1128px;
     height: 320px;
-    background-color: blue;
+}
+
+div.product-name-container, div.bookmark-name-container{
+    width:179px;
+    height: 38px;
+    font-size: 25px;
+    font-weight: bold;
 }
 
 div.bookmark-container{
     width:1128px;
     height: 320px;
-    background-color: blue;
+    background-color: lightpink;
 }
